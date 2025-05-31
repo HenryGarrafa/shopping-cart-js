@@ -26,13 +26,6 @@ It demonstrates my ability to work with DOM manipulation, event handling, templa
 
 ---
 
-## 📷 Preview
-
-![Shopping Cart Preview](preview.jpg)  
-> *(Optional: Add a screenshot of your website and name the file `preview.jpg`)*
-
----
-
 ## 🚀 Live Demo
 
 👉 [View Site on GitHub Pages](https://henrygarrafa.github.io/shopping-cart-js/)
