@@ -36,16 +36,3 @@ It demonstrates my ability to work with DOM manipulation, event handling, templa
 
 Henry Garrafa  
 [GitHub Profile](https://github.com/henrygarrafa)
-
----
-
-## ✅ Instructions
-
-If you'd like to run the project locally:
-
-1. Clone the repository:
-```bash
-git clone https://github.com/henrygarrafa/shopping-cart-js.git
-```
-
-2. Open the `index.html` file in your browser.
